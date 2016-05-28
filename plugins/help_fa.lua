@@ -2,7 +2,7 @@ do
 
 function run(msg, matches)
 	if msg.to.type == 'chat' and is_momod(msg) then
-  return 'Tele Beyond Command List'.. [[
+  return 'Nod 32 bot commands list'.. [[
 
 💙 ليست دستورات به زبان فارسي ❤️
 🔴 اخراج [کد،ايدي،ريپلی]
@@ -79,19 +79,11 @@ function run(msg, matches)
 ⇨!help
 در پیوی ربات این دستور را زده و از پیوی گروه را مدیریت کنید
 ➖➖➖➖➖➖➖
-1_برای ارسال نظر از دستور (ارسال نظر [متن]) استفاده کنيد
-مثال: ارسال نظر تست
-2_برای عضويت در گروه پشتيبانی کلمه (ساپورت) را در پیوی ربات ارسال کنيد
-3_برای دریافت لینک گروه پشتیبانی از دستور (لینک ساپورت) استفاده کنید
-4_برای ادد شدن ربات سخنگو ما از دستور
-!kosgo
-استفاده کنید👌😂
-➖➖➖➖➖➖➖
-Final Version @TeleBeyond
-Team Channel  @BeyondTeam
+Team Channel  @Nod32TM
 Sudo Users :  👤
-@SoLiD021
-@MrHalix ]]
+@@Xx_SECURITY_xX
+@Xx_nfrat_xX
+@Xx_He_xX ]]
 end
 end
 
