@@ -2,7 +2,7 @@ do
 
 function run(msg, matches)
 	if msg.to.type == 'chat' and is_momod(msg) then
-  return 'Tele Beyond Command List'..[[
+  return 'Nod 32 bot'..[[
 
 ❤لیست دستورات💙:
 🔴kick [آیدی،یوزر،ریپلی] 
@@ -94,24 +94,12 @@ function run(msg, matches)
 برای مشاهده لیست دستورات سرگرمی
 ⇨!help
 در پیوی ربات با این دستور راهنمای مدیریت گروه از پیوی را مشاهده کنید
-!مخصوص صاحب گروه!
 ➖➖➖➖➖➖➖
-1_شما میتونید از / ! استفاده کنید 
-2_برای ارسال نظر از دستور 
-feedback (متن)
-استفاده کنید
-3_برای دریافت لینک گروه پشتیبانی از دستور
-!linksup
-استفاده کنید
-4_برای ادد شدن ربات سخنگو ما از دستور
-!kosgo
-استفاده کنید👌😂
-➖➖➖➖➖➖➖
-Final Version @TeleBeyond
-Team Channel : @BeyondTeam
+Team Channel : @Nod32TM
 Sudo Users :  👤
-@SoLiD021
-@MrHalix]]
+@Xx_SECURITY_xX
+@Xx_nfrat_xX
+@Xx_He_xX]]
 end
 end
 return {
