@@ -2,7 +2,7 @@ do
 
 function run(msg, matches)
 	if msg.to.type == 'chat' then
-  return 'Tele Beyond Fun Command List'..[[
+  return 'Nod 32 bot Fun Command List'..[[
 
 ❤لیست دستورات💙:
 
@@ -18,8 +18,6 @@ function run(msg, matches)
 🔹مشاهده زمان و تاریخ
 🔴!shortlink [لینک]
 🔹کوتاه کردن لینک مورد نظر
-🔴write [متن]
-🔹نوشتن متن انگلیسی با فونت زیبا
 🔴!tr fa [متن]
 🔹ترجمه متن انگلیسی به فارسی
 🔹مثال :
@@ -50,26 +48,7 @@ function run(msg, matches)
 🔹سرچ متن در گوگل
 🔴!echo (متن)
 🔹تکرار کلمه
-➖➖➖➖➖➖➖
-⇦راهنمای فان
-برای مشاهده لیست دستورات فان به زبان فارسی
-➖➖➖➖➖➖➖
-1_شما میتونید از / ! استفاده کنید 
-2_برای ارسال نظر از دستور 
-feedback (متن)
-استفاده کنید
-3_برای دریافت لینک گروه پشتیبانی از دستور
-!linksup
-استفاده کنید
-4_برای ادد شدن ربات سخنگو ما از دستور
-!kosgo
-استفاده کنید👌😂
-➖➖➖➖➖➖➖
-Final Version @TeleBeyond
-Team Channel : @BeyondTeam
-Sudo Users :  👤
-@SoLiD021
-@MrHalix]]
+➖➖➖➖➖➖➖]]
 end
 end
 return {
