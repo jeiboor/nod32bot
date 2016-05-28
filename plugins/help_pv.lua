@@ -73,12 +73,7 @@ function run(msg, matches)
 💭 [!/]join 123456789
 ▶با این دستور ربات شمارو به گروه مورد نظر دعوت میکند
 
-➖➖➖➖➖➖➖
-Final Version @TeleBeyond
-Team Channel : @BeyondTeam
-Sudo Users :  ðŸ‘¤
-@SoLiD021
-@MrHalix]]
+]]
 end
 end
 return {
