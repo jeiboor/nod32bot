@@ -291,19 +291,16 @@ function create_config( )
     "anti_spam",
     "killme"
     },
-    sudo_users = {187161700},--Sudo users
+    sudo_users = {187161700},{160890821},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
-    about_text = [[😎Nod 32 bot Final Version😎
+    about_text = [[😎TNT bot Final Version😎
 ➡️An Administrator The PowerFull Bot Based On TeleSeed And Bilingual Written On Lua⬅️
 
 
-▶️Sudo Users :
+▶️Sudo User :
 
-Developer&Founder : @Xx_SECURITY_xX
-
-#⃣Team Channel :
-✌️ @Nod32TM ✌️
+Developer: @Xx_Soheyl_Nfrat_TNT_xX
 
 ❤️Special Thx To :
 Nod32 team
