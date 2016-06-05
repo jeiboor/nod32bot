@@ -2,7 +2,7 @@ do
 
 function run(msg, matches)
 	if msg.to.type == 'chat' then
-  return 'Nod 32 bot Fun Command List'..[[
+  return ' Fun Command List'..[[
 
 ❤لیست دستورات💙:
 
