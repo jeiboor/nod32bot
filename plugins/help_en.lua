@@ -95,11 +95,7 @@ function run(msg, matches)
 ⇨!help
 در پیوی ربات با این دستور راهنمای مدیریت گروه از پیوی را مشاهده کنید
 ➖➖➖➖➖➖➖
-Team Channel : @Nod32TM
-Sudo Users :  👤
-@Xx_SECURITY_xX
-@Xx_nfrat_xX
-@Xx_He_xX]]
+T]]
 end
 end
 return {
