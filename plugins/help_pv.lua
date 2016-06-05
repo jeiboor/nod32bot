@@ -3,7 +3,7 @@ do
 function run(msg, matches)
  
 	if msg.to.type == 'user' then
-  return 'Tele Bd Team Command List'..[[
+  return 'TNT Team Command List'..[[
 
 ðŸ”˜دستورات پیوی ربات برای اداره کردن گروهðŸ”˜
 
