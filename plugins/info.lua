@@ -101,7 +101,7 @@ local function action_by_reply(extra, success, result)-- (reply) /info  function
 	local hash = 'rank:'..result.to.id..':variables'
 		local value = redis:hget(hash, result.from.id)
 		 if not value then
-		    if result.from.id == tonumber(Arian) then
+		    if result.from.id == tonumber(بابا سهیل ) then
 		       text = text..'مقام : مدیر کل ربات (Executive Admin) \n\n'
 		     elseif is_admin2(result.from.id) then
 		       text = text..'مقام : ادمین ربات (Admin) \n\n'
@@ -169,7 +169,7 @@ local function run(msg, matches)
 	if hash then
 	  local value = redis:hget(hash, msg.from.id)
 	  if not value then
-		if msg.from.id == tonumber(Arian) then
+		if msg.from.id == tonumber(بابا سهیل) then
 		 text = text..'مقام : مدیر کل ربات (Executive Admin) \n\n'
 		elseif is_sudo(msg) then
 		 text = text..'مقام : ادمین ربات (Admin) \n\n'
@@ -194,7 +194,7 @@ local function run(msg, matches)
 	 text = text..'نام گروه : '..msg.to.title..'\n'
      text = text..'ایدی گروه : '..msg.to.id
     end
-	text = text..'\n\n@Nod32TM'
+	text = text..''
     return send_msg(receiver, text, ok_cb, true)
     end
   end
