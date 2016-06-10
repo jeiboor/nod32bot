@@ -294,16 +294,16 @@ function create_config( )
     sudo_users = {187161700},{160890821},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
-    about_text = [[😎TNT bot Final Version😎
+    about_text = [[
 ➡️An Administrator The PowerFull Bot Based On TeleSeed And Bilingual Written On Lua⬅️
 
 
 ▶️Sudo User :
 
-Developer: @Xx_Soheyl_Nfrat_TNT_xX
+Developer: @blacknfrat
 
 ❤️Special Thx To :
-Nod32 team
+Soheyl nfrat
 And All My Friends :D
 ]],
     help_text_realm = [[
